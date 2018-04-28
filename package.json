@@ -1,0 +1,23 @@
+{
+  "name": "geocode",
+  "version": "1.0.0",
+  "description": "geocoding",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ageolam/geocode.git"
+  },
+  "author": "Andreas Georgiou",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ageolam/geocode/issues"
+  },
+  "homepage": "https://github.com/ageolam/geocode#readme",
+  "dependencies": {
+    "@google/maps": "^0.4.6",
+    "dotenv": "^5.0.1"
+  }
+}
