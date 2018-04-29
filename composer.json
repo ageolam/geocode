@@ -1,0 +1,13 @@
+{
+    "name": "ageolam/phpgeocode",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Andreas Georgiou",
+            "email": "ageolam@gmail.com"
+        }
+    ],
+    "require": {
+        "vlucas/phpdotenv": "^2.4"
+    }
+}

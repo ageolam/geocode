@@ -57,3 +57,14 @@ typings/
 # dotenv environment variables file
 .env
 
+#json file
+germanyStates.json
+
+#php files
+germanyStates.php
+
+# ignore Composer downloads
+/vendor/*
+
+# ignore 
+.phpintel/
